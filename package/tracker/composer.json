@@ -1,0 +1,20 @@
+{
+    "name": "raj5852/usertracker",
+    "description": "laravel user location tracker",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Raj5852\\Usertracker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raj",
+            "email": "rajkumer2001@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+
+}

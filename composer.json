@@ -24,7 +24,9 @@
         "psr-4": {
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
-            "Database\\Seeders\\": "database/seeders/"
+            "Database\\Seeders\\": "database/seeders/",
+            "Raj5852\\Usertracker\\": "package/tracker/src/"
+
         }
     },
     "autoload-dev": {
